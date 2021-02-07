@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Electrical and Computer Engineering, Xidian University, 2014
 * M.S. in Electrical and Computer Engineering, Technical University of Munich, 2017
-* Ph.D in Computer Networks, University of Massachussets Amherst, 2023 (expected)
+* Ph.D. in Computer Networks, University of Massachussets Amherst, 2023 (expected)
 
 Experience
 ======
