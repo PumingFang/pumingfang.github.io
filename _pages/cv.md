@@ -20,14 +20,14 @@ Experience
 * Jan. 2021 - Present: Research Assistant
   * University of Massachussets Amherst
   * Supervisor: [Prof. Tilman Wolf](http://www.ecs.umass.edu/ece/wolf/) 
-  * Project: A Deep Learning-Based Framework for Content Caching
+  * **Project: A Deep Learning-Based Framework for Content Caching**
     1. Introduced a novel framework based on deep recurrent neural network models for content caching
     2. Implemented a simulator and prototype within Apache Traffic Server
 
 * Mar. 2020 - Dec. 2020: Research Assistant
   * University of Massachussets Amherst
   * Supervisor: [Prof. Tilman Wolf](http://www.ecs.umass.edu/ece/wolf/) 
-  * Project: Enabling Virtual Network Functions in Named Data Network
+  * **Project: Enabling Virtual Network Functions in Named Data Network**
     1. Introduced an approach that uses modifications to names in data requests to invoke network functions 
     2. Presented three different approaches on how to invoke network functions in NDN, which include explicit invocation by the end-system and transparent invocation by intermediate nodes
 
