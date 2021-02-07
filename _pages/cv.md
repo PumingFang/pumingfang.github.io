@@ -31,7 +31,14 @@ Experience
     1. Introduced an approach that uses modifications to names in data requests to invoke network functions 
     2. Presented three different approaches on how to invoke network functions in NDN, which include explicit invocation by the end-system and transparent invocation by intermediate nodes
 
-
+* Jan. 2017 - Aug. 2017: Research Assistant
+  * Infineon Technologies & Technical University of Munich
+  * Supervisor: Prof. Thomas Eibert
+  * Project: Mobile Phone Antenna Radiation Pattern Reconfiguration for 4X4 MIMO Systems with Antenna Tuning Switches
+    1. Designed and simulated mobile phone antennas
+    2. Implemented antenna tuning devices to obtain radiation pattern reconfiguration
+    3. Investigated the benefits brought into 4x4 MIMO mobile communications by pattern reconfiguration
+   
 Publications
 ======
 * **Enabling Virtual Network Functions in Named Data Networking**
