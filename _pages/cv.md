@@ -58,7 +58,7 @@ Teaching
   
 Skills
 ======
-Proficient in Python and skillful in C++ and Java
+Proficient in Python; Skillful in C++ and Java
 
 
 Language
