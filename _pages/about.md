@@ -1,15 +1,3 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-Hello! I'm Puming Fang
-======
 I am a fourth-year Ph.D. student at UMass Amherst working with  Prof. Tilman Wolf.  My research interests focus on computer networks, cloud computing, and named data networking.  Before joining UMass, I obtained my master's degree from the Technical University of Munich in Germany, advised by Prof. Thomas Eibert.
 
 Recent Updates
