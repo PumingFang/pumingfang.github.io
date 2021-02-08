@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+## About me
 I am a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.umass.edu/ece/wolf/) at the [University of Massachusetts Amherst](https://www.umass.edu/).  My research interests focus on computer networks, cloud computing, and named data networking.  Before joining UMass, I obtained my master's degree from the [Technical University of Munich](https://www.tum.de/en/) in Germany, advised by [Prof. Thomas Eibert](https://www.ei.tum.de/en/hft/people/professors/prof-dr-ing-thomas-eibert/prof-dr-ing-thomas-eibert/). 
 
-## Recent Updates
-* **[01/2021]** Our recent work on "Enabling Virtual Network Functions in Named Data Networking" will be published in IEEE INFOCOM WKSHPS: GI 2021.
+## News
+* **[01/2021]** Our work on "Enabling Virtual Network Functions in Named Data Networking" will be published in IEEE INFOCOM WKSHPS: GI 2021.
 * **[06/2020]** I received the student travel grant of IFIP NETWORKING 2020.  
 
 ## Publications
