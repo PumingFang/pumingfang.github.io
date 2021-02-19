@@ -13,6 +13,9 @@ I am a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.umass.edu/e
 
 My one-page resume can be downloaded [here](http://pumingfang.github.io/files/cv.pdf).
 
+***"Man muss das Unmögliche versuchen, um das Mögliche zu erreichen." - (Hermann Hesse)***
+          "You must try the impossible to reach the possible." - (Hermann Hesse) 
+
 ## News
 * **[01/2021]** Our work on "Enabling Virtual Network Functions in Named Data Networking" will be published in IEEE INFOCOM WKSHPS: GI 2021.
 * **[06/2020]** I received the student travel grant of IFIP NETWORKING 2020.  
