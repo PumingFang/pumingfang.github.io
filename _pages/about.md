@@ -28,7 +28,7 @@ My one-page resume can be downloaded [here](http://pumingfang.github.io/files/cv
 ## Work in progress
 * **A Deep Learning-Based Framework for Content Caching**
 
-* **Implementation of Enabling Virtual Network Functions in Named Data Networking**
+* **Implementation of Virtual Network Functions in Named Data Networking**
 
 ## Teaching
 * ECE697: Applied Machine Learning (2021 Spring)
