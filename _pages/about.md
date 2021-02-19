@@ -15,7 +15,7 @@ My one-page resume can be downloaded [here](http://pumingfang.github.io/files/cv
 
 ***"Man muss das Unmögliche versuchen, um das Mögliche zu erreichen." - (Hermann Hesse)***
 
-       "You must try the impossible to reach the possible." - (Hermann Hesse) 
+"You must try the impossible to reach the possible." - (Hermann Hesse) 
 
 ## News
 * **[01/2021]** Our work on "Enabling Virtual Network Functions in Named Data Networking" will be published in IEEE INFOCOM WKSHPS: GI 2021.
