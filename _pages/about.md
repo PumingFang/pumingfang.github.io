@@ -25,10 +25,10 @@ My one-page resume can be downloaded [here](http://pumingfang.github.io/files/cv
 
   **Puming Fang**, Kun Wang, Mathias Wolfmüller, and Thomas F. Eibert. In IEEE International Symposium on Antennas and Propagation, Jul 2018. 
   
-## Research work in progress
+## Work in progress
 * **A Deep Learning-Based Framework for Content Caching**
 
-* **Implementation of Enabling Virtual Network Functions in Named Data Networking*
+* **Implementation of Enabling Virtual Network Functions in Named Data Networking**
 
 ## Teaching
 * ECE697: Applied Machine Learning (2021 Spring)
