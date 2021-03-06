@@ -48,5 +48,5 @@ I am a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.umass.edu/e
     4. Wrote application guides and technical reports for the products
 
 ## Teaching
-* ECE697: Applied Machine Learning (2021 Spring)
-* ECE671: Computer Networks (2020 Fall)
+* ECE697: Applied Machine Learning 
+* ECE671: Computer Networks 
