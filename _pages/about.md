@@ -11,8 +11,6 @@ redirect_from:
 ## About me
 I am a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.umass.edu/ece/wolf/) at the [University of Massachusetts Amherst](https://www.umass.edu/).  My research interests focus on computer networks and machine learning.  Before joining UMass, I obtained my master's degree from the [Technical University of Munich](https://www.tum.de/en/) in Germany, advised by [Prof. Thomas Eibert](https://www.ei.tum.de/en/hft/people/professors/prof-dr-ing-thomas-eibert/prof-dr-ing-thomas-eibert/). 
 
-> If nothing about our society changes for the next 100 years, then the future is over 100 years away. If things change radically in the next decade, then the future is nearly at hand.   - Peter Thiel
-
 ## News
 * **[03/2021]** I will join Qualcomm as an intern this summer.
 * **[01/2021]** Our work on "Enabling Virtual Network Functions in Named Data Networking" will be published in IEEE INFOCOM WKSHPS: GI 2021.
