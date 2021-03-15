@@ -25,17 +25,17 @@ I am a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.umass.edu/e
   
 ## Professional Experience
 * Jan. 2017 - Aug. 2017: Research Intern
-  * Infineon Technologies AG
+  * Infineon Technologies
   * Munich, Bavaria, Germany
   * Project: Mobile Phone Antenna Radiation Pattern Reconfiguration for 4X4 MIMO Systems with Antenna Tuning Switches
     
 * Oct. 2015 - Jul. 2016: Intern in RF Application
-  * Infineon Technologies AG
+  * Infineon Technologies
   * Munich, Bavaria, Germany
   * Project: Design and Implementation of RF Front-End for LTE-Advanced Carrier Aggregation
    
 * Mar. 2015 - Sept. 2015: Intern in RF Application
-  * Infineon Technologies AG
+  * Infineon Technologies
   * Munich, Bavaria, Germany
   * Project: Simulation, Implementation and Characterization of Low Noise Amplifier
 
