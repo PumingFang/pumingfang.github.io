@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-I am a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.umass.edu/ece/wolf/) at the [University of Massachusetts Amherst](https://www.umass.edu/). My research is in the areas of computer networks and machine learning.  Prior to joining UMass, I graduated from the [Technical University of Munich](https://www.tum.de/en/) in Germany with a focus in radio-frequency engineering, advised by [Prof. Thomas Eibert](https://www.ei.tum.de/en/hft/people/professors/prof-dr-ing-thomas-eibert/prof-dr-ing-thomas-eibert/). 
+I'm a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.umass.edu/ece/wolf/) at the [University of Massachusetts Amherst](https://www.umass.edu/). My research is in the areas of computer networks and machine learning.  Prior to joining UMass, I graduated from the [Technical University of Munich](https://www.tum.de/en/) in Germany with a focus in radio-frequency engineering, advised by [Prof. Thomas Eibert](https://www.ei.tum.de/en/hft/people/professors/prof-dr-ing-thomas-eibert/prof-dr-ing-thomas-eibert/). 
 
 ## News
 * **[03/2021]** I will join Qualcomm as an intern this summer.
