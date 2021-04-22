@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Puming Fang"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Puming Fang"
 description              : &description "Ph.D. Student at UMass Amherst"
