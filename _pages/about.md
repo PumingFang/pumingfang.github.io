@@ -12,6 +12,7 @@ redirect_from:
 I'm a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.umass.edu/ece/wolf/) at the [University of Massachusetts Amherst](https://www.umass.edu/). My research is in the areas of computer networks and machine learning.  Prior to joining UMass, I obtained my master’s degree from the [Technical University of Munich](https://www.tum.de/en/) in Germany, advised by [Prof. Thomas Eibert](https://www.ei.tum.de/en/hft/people/professors/prof-dr-ing-thomas-eibert/prof-dr-ing-thomas-eibert/). 
 
 ## News
+* **[05/2021]** I was selected to receive 2021 ECE Outstanding TA Award
 * **[03/2021]** I will join Qualcomm as an intern this summer.
 * **[01/2021]** Our work on "Enabling Virtual Network Functions in Named Data Networking" will be published in IEEE INFOCOM WKSHPS: GI 2021.
 
@@ -22,7 +23,11 @@ I'm a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.umass.edu/ec
 * **Radiation Pattern Reconfigurable Antenna for 4X4 MIMO Systems with Antenna Tuning Switches**
 
   **Puming Fang**, Kun Wang, Mathias Wolfmüller, and Thomas F. Eibert. In IEEE International Symposium on Antennas and Propagation, Jul 2018. 
-  
+
+## Awards
+*  2021 ECE Outstanding TA Award
+*  2020 IFIP Networking Student Travel Grant
+
 ## Professional Experience
 * Jan. 2017 - Aug. 2017: Research Intern
   * Infineon Technologies
