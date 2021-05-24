@@ -24,6 +24,9 @@ Puming Fang is a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.u
 *  2020 IFIP Networking Student Travel Grant
 
 ## Professional Experience
+* Jun. 2021 - Aug. 2021: Interim Engineering Intern
+  * Qualcomm
+  * San Jose, California
 * Jan. 2017 - Aug. 2017: Research Intern
   * Infineon Technologies
   * Munich, Germany
