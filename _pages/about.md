@@ -28,17 +28,17 @@ Puming Fang is a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.u
   * Qualcomm
   * San Jose, California
 * Jan. 2017 - Aug. 2017: Research Intern
-  * Infineon Technologies
+  * Infineon 
   * Munich, Germany
   * Project: Mobile Phone Antenna Radiation Pattern Reconfiguration for 4X4 MIMO Systems with Antenna Tuning Switches
     
 * Oct. 2015 - Jul. 2016: Intern in RF Application
-  * Infineon Technologies
+  * Infineon 
   * Munich, Germany
   * Project: Design and Implementation of RF Front-End for LTE-Advanced Carrier Aggregation
    
 * Mar. 2015 - Sept. 2015: Intern in RF Application
-  * Infineon Technologies
+  * Infineon 
   * Munich, Germany
   * Project: Simulation, Implementation and Characterization of Low Noise Amplifier
 
