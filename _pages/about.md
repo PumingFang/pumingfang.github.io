@@ -45,3 +45,4 @@ Puming Fang is a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.u
 ## Teaching
 * ECE697: Applied Machine Learning 
 * ECE671: Computer Networks 
+* ENGIN112: Intro to ECE
