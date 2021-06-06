@@ -15,7 +15,7 @@ Puming Fang is a Ph.D. student working with [Prof. Tilman Wolf](http://www.ecs.u
 * **Enabling Virtual Network Functions in Named Data Networking**
 
   **Puming Fang** and Tilman Wolf. In Proc. of the Global Internet Symposium (GIS) in conjunction with the IEEE Conference on Computer Communications (INFOCOM), May. 2021.
-* **Radiation Pattern Reconfigurable Antenna for 4X4 MIMO Systems with Antenna Tuning Switches**
+* **Radiation Pattern Reconfigurable Antenna for MIMO Systems with Antenna Tuning Switches**
 
   **Puming Fang**, Kun Wang, Mathias Wolfmüller, and Thomas F. Eibert. In IEEE International Symposium on Antennas and Propagation, Jul. 2018. 
 
